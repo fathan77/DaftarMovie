@@ -1,0 +1,57 @@
+[
+    {
+        "nama": "Fast X", 
+        "tahun": "2023", 
+        "imageId": "FastX"
+    },
+    {
+        "nama": "Transformers: Rise of the Beasts", 
+        "tahun": "2023", 
+        "imageId": "Transformers"
+    },
+    {
+        "nama": "Spider-Man: Across the Spider-Verse", 
+        "tahun": "2023",
+        "imageId": "Spiderman"
+    },
+    {
+        "nama": "Guardians of the Galaxy Vol. 3",
+        "tahun": "2023", 
+        "imageId": "Guardian"
+    },
+    {
+        "nama": "The Super Mario Bros", 
+        "tahun": "2023", 
+        "imageId": "MarioBross"
+    },
+    {
+        "nama": "One Piece Film: Red",
+        "tahun": "2022", 
+        "imageId": "RED"
+    },
+    {
+        "nama": "Avatar: The Way of Water", 
+        "tahun": "2022",
+        "imageId": "Avatar"
+    },
+    {
+        "nama": "Uncharted", 
+        "tahun": "2022",
+        "imageId": "Uncharted"
+    },
+    {
+        "nama": "The Batman", 
+        "tahun": "2022",
+        "imageId": "TheBatman"
+    },
+    {
+        "nama": "No Time to Die", 
+        "tahun": "2021",
+        "imageId": "noTime"
+    },
+    {
+        "nama": "Joker", 
+        "tahun": "2019", 
+        "imageId": "Joker"
+    }
+]
